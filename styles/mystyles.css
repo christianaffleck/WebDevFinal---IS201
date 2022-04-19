@@ -10,3 +10,41 @@ body {
 .cta {
     background-color: rgba(230, 168, 86, 0.7);
 }
+a {
+    text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+.contactme {
+    color: white;
+}
+.page{
+    text-decoration: underline;
+}
+.header {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.youtube {
+  justify-content: center;
+}
+.resumeListHeader {
+    font-weight: bold;
+    font-style: normal;
+}
+.resumeList {
+    font-weight: normal;
+}
+.resumeHeader {
+    color: black;
+    text-decoration: underline;
+}
+.fancy {
+    font-size: xx-large;
+}
+/* top: 200%;
+-ms-transform: translateY(-50%);
+  transform: translateY(-50%);*/
